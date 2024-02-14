@@ -1,0 +1,14 @@
+{
+  "name": "Toperlock Doraemon",
+  "description": "Doraemon图标订阅",
+  "icons": [
+    {
+      "name": "XIOAHEIEH",
+      "url": "https://raw.githubusercontent.com/lxfj/png/main/loon/xiaoheihe.png"
+    },
+    {
+      "name": "TIDAL",
+      "url": "https://raw.githubusercontent.com/lxfj/png/main/loon/TIDAL.png"
+    },
+  ]
+}
